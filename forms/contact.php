@@ -25,7 +25,6 @@
 //  $contact->addCustomHeader('on behalf of', $_POST['email']);
 
   // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
-  
   $contact->smtp = array(
     'host' => 'smtp.hostinger.com',
     'username' => 'andre.karl@ahkservices.io',
